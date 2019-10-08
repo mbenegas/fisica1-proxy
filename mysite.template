@@ -1,6 +1,6 @@
 server {
     listen ${NGINX_PORT};
-    server_name  api.thingspeak.com;
+    server_name  ${NGINX_HOST};
 
     #charset koi8-r;
     #access_log  /var/log/nginx/host.access.log  main;
