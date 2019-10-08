@@ -8,7 +8,7 @@ server {
     location / {
         #root   /usr/share/nginx/html;
         #index  index.html index.htm;
-        proxy_pass https://api.thingspeak.com;
+        proxy_pass https://${API_PROXY};
     }
 
     #error_page  404              /404.html;

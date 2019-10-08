@@ -3,7 +3,7 @@
 set -ueo pipefail
 set -x
 
-SECRET_CH_ID=873646
+SECRET_CH_ID=${TS_CHANNEL_ID}
 HOST=192.168.0.200
 PORT=8080
 
