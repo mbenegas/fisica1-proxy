@@ -2,7 +2,7 @@
 
 La topología de la red de sensores y de este Proxy Server se puede observar en la siguiente imágen:
 
-![Topología de Red](/mbenegas/fisica1-proxy/blob/master/img/topologia.jpeg?raw=true)
+![Topología de Red](img/topologia.jpeg?raw=true)
 
 ## Construyendo el proxy
 
